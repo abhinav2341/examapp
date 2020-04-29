@@ -1,0 +1,22 @@
+.container
+	{
+		margin:2%;
+	}
+.header
+	{
+		padding : 2% ;
+		background: #cae7e8;
+		color: white;
+	}
+.header-right
+	{
+		flex: right;
+	} 
+#body
+	{
+		background-color: #e4ced1;color: black;height: -webkit-fill-available;
+	}
+#footer
+	{
+		background-color: grey;color: white;
+	}

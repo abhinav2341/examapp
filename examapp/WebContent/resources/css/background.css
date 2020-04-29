@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+.custom-class
+{ 
+ background: linear-gradient(270deg, #e65ea1, #eac090, #c56cd0, #eeb676, #e771e7);
+background-size: 1000% 1000%;
+
+-webkit-animation: gistofhappiness 24s ease infinite;
+-moz-animation: gistofhappiness 24s ease infinite;
+-o-animation: gistofhappiness 24s ease infinite;
+animation: gistofhappiness 24s ease infinite;
+}
+@-webkit-keyframes gistofhappiness {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@-moz-keyframes gistofhappiness {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@-o-keyframes gistofhappiness {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
+@keyframes gistofhappiness {
+    0%{background-position:0% 4%}
+    50%{background-position:100% 97%}
+    100%{background-position:0% 4%}
+}
